@@ -3,17 +3,13 @@
 # About me
 
 # Tools
-Jing - Screen capture software
-Postman - Testing tool for REST API
-Jira, Trello - Issue tracking and project management tool for developers
+* Screenpresso - Screen capture software
+* Postman - Testing tool for REST API
+* Jira, Trello - Issue tracking and project management tool for developers
 Selenium IDE - Open source record and playback test automation for the web
-Bug Magnet - Exploratory testing assistant for Chrome and Firefox
-Mouse Recorder - mouse and keyboard recording macro
 xPath Finder - xPath finding tool
-Xmind, Mind Meister - Mind mapping softwares
-draw.io - Flowchart maker and online diagram software
 Github
-BlazeMeter (https://www.blazemeter.com/) - Load testing platform
+
 
 # Tech skills
 SQL
