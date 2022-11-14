@@ -1,5 +1,5 @@
 # Portfolio
-[test](https://www.google.com)
+
 # About me
 
 # Tools
@@ -22,7 +22,7 @@
 * Creating diagrams and decision tables
 
 # Certificates
-* ISTQB - 17828/CTFL/2022
+* ISTQB - [17828/CTFL/2022](https://linktogoogledriver with istqb file)
 
 # Courses
 
