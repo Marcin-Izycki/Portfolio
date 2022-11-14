@@ -1,28 +1,28 @@
 # Portfolio
-
+[link text itself]: http://www.reddit.com
 # About me
 
 # Tools
 * Screenpresso - Screen capture software
 * Postman - Testing tool for REST API
 * Jira, Trello - Issue tracking and project management tool for developers
-Selenium IDE - Open source record and playback test automation for the web
-xPath Finder - xPath finding tool
-Github
+* Selenium IDE - Open source record and playback test automation for the web
+* xPath Finder - xPath finding tool
+* Github
 
 
 # Tech skills
-SQL
-DevTools
-SCRUM
-Software testing
-Creating test cases
-Reporting bugs
-Finding uniqe CSS Selectors and xPaths
-Creating diagrams and decision tables
+* SQL
+* DevTools
+* SCRUM
+* Software testing
+* Creating test cases
+* Reporting bugs
+* Finding uniqe CSS Selectors and xPaths
+* Creating diagrams and decision tables
 
 # Certificates
-ISTQB - ...
+* ISTQB - 17828/CTFL/2022
 
 # Courses
 
