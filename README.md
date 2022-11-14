@@ -22,7 +22,7 @@
 * Creating diagrams and decision tables
 
 # Certificates
-* ISTQB - [17828/CTFL/2022](https://linktogoogledriver with istqb file)
+* ISTQB - [17828/CTFL/2022](https://drive.google.com/file/d/130iMR8cQP-UOOPS6pXFP4Ab74TvBlUQw/view?usp=share_link)
 
 # Courses
 
