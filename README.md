@@ -38,30 +38,16 @@ pwicherski.gitbook.io
 GeekON
 
 # Webinars
-GeekON - praktyczne ćwiczenie SQL
-Szkoła testera - podstawy testowania
 
 # Articles
-Article about creating portfolio in GitHub using my portfolio as example
 
 # My test case examples
-Test cases for site lubimyczytac.pl
 
 # My bug reports
-Bugs reported for jakdojade.pl site
 
 # My examples of diagrams and decision tables
-Diagrams and decision tables for stoper, railway lights and registration
 
 # My examples of CSS Selectors and xPaths
-Finding uniqe CSS Selectors and xPaths on site ikea.pl
 
 # My projects
-Group project - leader - testing site allegro.pl
-Tablica trello.com
-Individual project - testing site zara.com
-Report
-Test cases
-Test cases - regression testing
-Mind map
-Automated Postman tests
+
