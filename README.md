@@ -40,11 +40,6 @@
 # Groups on Facebook
 
 # Recommended blogs
-testerzy.pl
-testuj.pl - Test, Bugs & Rock'n'Roll
-remigiuszbednarczyk.pl
-pwicherski.gitbook.io
-GeekON
 
 # Webinars
 
