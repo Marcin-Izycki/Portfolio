@@ -28,7 +28,7 @@
 * [Coders Lab - Tester Manualny](https://coderslab.pl/pl/tester-manualny)
 * [Coders Lab - Tester Automatyzujący](https://coderslab.pl/pl/tester-automatyzujacy)
 * [Udemy - The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
-** Test
+  * Test
 
 # Books
 * [Certyfikowany tester ISTQB Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
