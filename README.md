@@ -25,6 +25,10 @@
 * ISTQB - [17828/CTFL/2022](https://drive.google.com/file/d/130iMR8cQP-UOOPS6pXFP4Ab74TvBlUQw/view?usp=share_link)
 
 # Courses
+* [Coders Lab - Tester Manualny](https://coderslab.pl/pl/tester-manualny)
+* [Coders Lab - Tester Automatyzujący](https://coderslab.pl/pl/tester-automatyzujacy)
+* [Udemy - The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
+** Test
 
 # Books
 * [Certyfikowany tester ISTQB Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
