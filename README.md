@@ -27,6 +27,8 @@
 # Courses
 
 # Books
+* [Certyfikowany tester ISTQB Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
+* [Sztuka testowania oprogramowania](https://helion.pl/ksiazki/sztuka-testowania-oprogramowania-glenford-j-myers-corey-sandler-tom-badgett-tod,artteo.htm#format/d)
 
 # Groups on Facebook
 
