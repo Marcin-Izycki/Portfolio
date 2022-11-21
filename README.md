@@ -27,8 +27,10 @@
 # Courses
 * [Coders Lab - Tester Manualny](https://coderslab.pl/pl/tester-manualny)
 * [Coders Lab - Tester Automatyzujący](https://coderslab.pl/pl/tester-automatyzujacy)
+  * [Diploma](https://drive.google.com/file/d/13H142nht1O1Hgj9xbb7fqfzENUTuomNq/view?usp=sharing)
+  * [Supplement](https://drive.google.com/file/d/13HTONO40a-kwrDDYAfvR_PKCk7n_UtYQ/view?usp=sharing)
 * [Udemy - The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
-  * Test
+  * [Certificate](https://drive.google.com/file/d/137L-V1iLzLXWruwus8sBaHCNENSzoYw9/view?usp=sharing)
 
 # Books
 * [Certyfikowany tester ISTQB Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
