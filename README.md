@@ -1,7 +1,9 @@
-  # Portfolio
+# Portfolio
 
 # About me
-My name is Marcin Iżycki
+My name is Marcin Iżycki. I became interested in testing in 2021, and I decided to start implementing my goal from the beginning of 2022. 
+In 2021, I went abroad for work (Denmark) to collect the necessary funds. From the beginning of 2022, I signed up for a manual and automation tester course.
+When I worked at Sputnik Software as customer service, I had my first contact with defects, reporting bugs and checking patch versions. I also tested the new functionality regarding the GDPR
 # Tools
 * Screenpresso - Screen capture software
 * Postman - Testing tool for REST API
