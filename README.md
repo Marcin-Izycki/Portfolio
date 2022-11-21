@@ -29,6 +29,7 @@
 # Books
 * [Certyfikowany tester ISTQB Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
 * [Sztuka testowania oprogramowania](https://helion.pl/ksiazki/sztuka-testowania-oprogramowania-glenford-j-myers-corey-sandler-tom-badgett-tod,artteo.htm#format/d)
+* [English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,angivv.htm?from=ni#format/d)
 
 # Groups on Facebook
 
