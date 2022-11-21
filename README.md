@@ -1,7 +1,7 @@
-# Portfolio
+  # Portfolio
 
 # About me
-
+My name is Marcin Iżycki
 # Tools
 * Screenpresso - Screen capture software
 * Postman - Testing tool for REST API
