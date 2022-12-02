@@ -11,6 +11,8 @@ In 2021, I went abroad for work (Denmark) to collect the necessary funds. From t
 * Selenium IDE - Open source record and playback test automation for the web
 * xPath Finder - xPath finding tool
 * Github
+* Xampp
+* TestLink
 
 
 # Tech skills
