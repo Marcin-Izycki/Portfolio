@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite id="" name="" >
+<node_order><![CDATA[]]></node_order>
+<details><![CDATA[]]></details> 
+<testsuite id="7" name="Search Test Suite" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[<p>Search Test Suite</p>
+]]></details> 
+
+<testcase internalid="8" name="Search">
+	<node_order><![CDATA[1000]]></node_order>
+	<externalid><![CDATA[1]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration></estimated_exec_duration>
+	<status>1</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>Go to page https://helion.pl/</p>
+]]></actions>
+	<expectedresults><![CDATA[<ol>
+	<li>The page&nbsp;https://helion.pl/ loaded correctly</li>
+	<li>Search engine&nbsp;is visible</li>
+</ol>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>Press&nbsp;magnifying glass icon</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Page refresh and user is on the same side</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>Type in search field phrase &quot;ISTQB&quot;</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>A pop-up appeared with suggested book titles</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[4]]></step_number>
+	<actions><![CDATA[<p>Click on button below &quot;Zobacz wszystkie&quot;</p>
+]]></actions>
+	<expectedresults><![CDATA[<ol>
+	<li>User was directed to page&nbsp;https://helion.pl/search?szukaj=istqb</li>
+	<li>The header is visible with the phrase &quot;Szukasz &quot;istqb&quot;</li>
+</ol>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[5]]></step_number>
+	<actions><![CDATA[<p>Clear the field in search</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>The field search is clean</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[6]]></step_number>
+	<actions><![CDATA[<p>Press magnifying glass icon</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Page refresh and user in on the same page -&nbsp;https://helion.pl/search?szukaj=istqb</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[7]]></step_number>
+	<actions><![CDATA[<ol>
+	<li>Type in search field phrase &quot;blablabla&quot;</li>
+	<li>Press magnifying glass icon</li>
+</ol>
+]]></actions>
+	<expectedresults><![CDATA[<p>The subpage is visible with information&nbsp;&quot;Nie znaleziono szukanej frazy&quot;</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+<platforms/>
+
+</testcase>
+</testsuite></testsuite>
