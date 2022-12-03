@@ -51,6 +51,8 @@ In 2021, I went abroad for work (Denmark) to collect the necessary funds. From t
 * [Article about creating portfolio in GitHub using my portfolio as example](https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ)
 # My test case examples
 * [Helion.pl test suite in TestLink](https://github.com/Marcin-Izycki/Portfolio/blob/main/Helion%20Page%20Test%20Suite%20TestLink.xml)
+* [Test Survey](https://docs.google.com/spreadsheets/d/10v0gOt000AatAPtqMCF6MPYjFEOtq2sY/edit?usp=sharing&ouid=110228764306878187192&rtpof=true&sd=true)
+ * Project for company a1qa durning training academy
 
 # My bug reports
 
