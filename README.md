@@ -13,6 +13,7 @@ In 2021, I went abroad for work (Denmark) to collect the necessary funds. From t
 * Github
 * Xampp - Open source cross-platform web server for Apache and MySQL
 * TestLink - Open source platform for test cases, test suites, test plans, test projects
+* JMeter - Open source software to load test functional behavior and measure performance
 
 
 # Tech skills
