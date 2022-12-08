@@ -48,6 +48,7 @@ In 2021, I went abroad for work (Denmark) to collect the necessary funds. From t
 
 # Webinars
 * GO IT - Jak zacząć karierę Testera Oprogramowania od zera?
+* Web To Learn - Praktyczny Python
 
 # Articles
 * [Article about creating portfolio in GitHub using my portfolio as example](https://remigiuszbednarczyk.pl/portfolio-testera?fbclid=IwAR2jX5Kqys6g0o9xi0qkzqhDKy3p0hIHajaN8dO6NFyh5w1NwMnlQrq8-aQ)
