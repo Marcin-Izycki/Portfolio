@@ -41,6 +41,7 @@ In 2021, I went abroad for work (Denmark) to collect the necessary funds. From t
 * [Certyfikowany tester ISTQB Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
 * [Sztuka testowania oprogramowania](https://helion.pl/ksiazki/sztuka-testowania-oprogramowania-glenford-j-myers-corey-sandler-tom-badgett-tod,artteo.htm#format/d)
 * [English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,angivv.htm?from=ni#format/d)
+* [HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Podręcznik Front-End Developera](https://helion.pl/ksiazki/html-i-css-zaprojektuj-i-zbuduj-witryne-www-podrecznik-front-end-developera-jon-duckett,htcswv.htm#format/d)
 
 # Groups on Facebook
 
