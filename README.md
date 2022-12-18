@@ -58,6 +58,7 @@ In 2021, I went abroad for work (Denmark) to collect the necessary funds. From t
 * [Test Survey](https://docs.google.com/spreadsheets/d/10v0gOt000AatAPtqMCF6MPYjFEOtq2sY/edit?usp=sharing&ouid=110228764306878187192&rtpof=true&sd=true) - Project for company a1qa durning training academy
 
 # My bug reports
+* [Bug report for side skleptest.pl](https://docs.google.com/document/d/1M0igyja2ssr6WAiT_qF8p6iMqlP-Z6L9i1uDugoAF-A/edit?usp=sharing)
 
 # My examples of diagrams and decision tables
 
